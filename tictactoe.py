@@ -8,7 +8,7 @@
 # Written in Flask framework and AngularJS for the frontend
 #--------------------------------------------------------------------
 from flask import Flask, render_template, jsonify, request
-from game import Game
+from play import Game
 
 app = Flask(__name__)
 
