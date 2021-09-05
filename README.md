@@ -19,6 +19,4 @@ Inside [game.py](https://github.com/Buuntu/minimax-algorithm/blob/master/game.py
 is my implementation of the 
 [minimax](https://en.wikipedia.org/wiki/Minimax) algorithm.
 
-![Example](./static/img/example.png)
-
 
